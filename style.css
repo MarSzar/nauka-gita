@@ -1,0 +1,17 @@
+/*Global*/
+body {
+    font-family: 'Crimson Pro', serif;
+}
+h1, h3, p {
+	font-family: 'Crimson Pro', serif;
+}
+h3 {
+margin-bottom: 50px;
+font-weight: normal;
+}
+h1 {
+margin-bottom: -10px;
+}
+.container {
+margin-left: 25%;
+}
