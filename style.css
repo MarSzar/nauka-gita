@@ -8,9 +8,11 @@ h1, h3, p {
 h3 {
 margin-bottom: 50px;
 font-weight: normal;
+color: blue;
 }
 h1 {
 margin-bottom: -10px;
+color: green;
 }
 .container {
 margin-left: 25%;
